@@ -11,9 +11,10 @@
 - 🔖 [Resume](https://atpaustinpeng.github.io/resume/austin-peng-resume.pdf)
 
 
-
+<!--
 ![Austin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atpaustinpeng&theme=monokai)
 [![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atpaustinpeng&hide=stars&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
