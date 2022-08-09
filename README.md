@@ -10,8 +10,15 @@
 - 📬 How to reach me: [apeng39@gatech.edu](mailto:apeng39@gatech.edu) or [Linkedin](https://www.linkedin.com/in/atpaustinpeng)
 - 🔖 [Resume](https://atpaustinpeng.github.io/resume/austin-peng-resume.pdf)
 
+<details><summary>📈 <b>My GitHub Stats</b></summary>
+<br/>
+  
+![Austin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atpaustinpeng&theme=monokai)
+[![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atpaustinpeng&hide=stars&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
 
-### My Tech Stack
+#### My Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,11 +36,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+
 <!--
 https://github.com/Ileriayo/markdown-badges
-
-![Austin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atpaustinpeng&theme=monokai)
-[![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atpaustinpeng&hide=stars&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
