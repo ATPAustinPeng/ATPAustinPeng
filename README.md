@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Austin 👋
 
-<!--
-**ATPAustinPeng/ATPAustinPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤷🏻‍♂️ I'm a software developer, athlete (tennis, cross-country), and a huge fan of crocheting amigurumis.
+- 📖 I'm currently learning about web development (JS, HTML, CSS) and sharpening my skills in Java, Python, and machine learning.
+- 🚧 Still a work in progress, but check out my [personal website](https://austinpeng.dev). The idea is to move away from my [Wordpress blog](https://cstechtonic.wordpress.com/) onto my own website.
+- 📬 How to reach me: [mailto: apeng39@gatech.edu](apeng39@gatech.edu) or [Linkedin](https://www.linkedin.com/in/atpaustinpeng)
+- 🔖 [Resume](https://atpaustinpeng.github.io/resume/austin-peng-resume.pdf)
 
-Here are some ideas to get you started:
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fatpaustinpeng&countColor=%23f4c2c2)
 
-- 🔭 I’m currently working on ...
+[![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atpaustinpeng&hide=stars&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
+![Austin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atpaustinpeng&theme=monokai)
+
+
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
