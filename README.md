@@ -8,7 +8,7 @@
 - 📖 I'm currently learning about web development (JS, HTML, CSS) and sharpening my skills in Java, Python, and machine learning.
 - 🚧 Still a work in progress, but check out my [personal website](https://austinpeng.dev). I'm migrating my [Wordpress blog](https://cstechtonic.wordpress.com/) onto my own site.
 - 📬 How to reach me: [apeng39@gatech.edu](mailto:apeng39@gatech.edu) or [Linkedin](https://www.linkedin.com/in/atpaustinpeng)
-- 🔖 [Resume](https://atpaustinpeng.github.io/resume/austin-peng-resume.pdf)
+<!-- - 🔖 [Resume](https://atpaustinpeng.github.io/resume/austin-peng-resume.pdf) -->
 
 <details><summary>📈 <b>My GitHub Stats</b></summary>
 <br/>
