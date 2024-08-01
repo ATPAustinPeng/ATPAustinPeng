@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ATPAustinPeng/ATPAustinPeng/blob/main/boba-gif.gif" alt="boba-gif" width="125"/>
 
-- 🤷🏻‍♂️ I'm a software developer, recreational athlete (tennis, boulderer), and a huge fan of crocheting amigurumis.
+- 🤷🏻‍♂️ I'm a machine learning engineer, recreational athlete (tennis, boulderer), and a huge fan of crocheting amigurumis.
 - 📖 I'm passionate about backend development and machine learning!
 <!--- - 🚧 Still a work in progress, but check out my [personal website](https://austinpeng.dev). I'm migrating my [Wordpress blog](https://cstechtonic.wordpress.com/) onto my own site. -->
 
